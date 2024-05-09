@@ -21,3 +21,4 @@ elif [ "$1" == "--help" ]; then
 else
     echo "Nierozpoznana opcja. Użyj 'skrypt.sh --help' aby wyświetlić dostępne opcje."
 fi
+git tag 1.0
